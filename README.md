@@ -18,6 +18,8 @@ sudo docker ps -a
 - And select the container you want to work with (mine is 0f19152b7a14):
 sudo docker start -ai 0f19152b7a14
 
+
+
 Docker Process Management
 -------------------------
 
